@@ -1,0 +1,17 @@
+{
+  "render_type": "cutout",
+  "textures": {
+    "overlay": "millenaire:block/apple_tree_leaves_blossom"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "north": { "texture": "#overlay", "cullface": "north" },
+        "west":  { "texture": "#overlay", "cullface": "west" },
+        "up":  { "texture": "#overlay", "cullface": "up" }
+      }
+    }
+  ]
+}
