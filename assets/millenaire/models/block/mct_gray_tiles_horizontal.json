@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "millenaire:block/mct_gray_tiles_top",
+    "side": "millenaire:block/mct_gray_tiles_side"
+  }
+}
