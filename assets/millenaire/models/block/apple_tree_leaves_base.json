@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "millenaire:block/apple_tree_leaves_notint",
-    "particle": "millenaire:block/apple_tree_leaves_notint"
-  }
-}
