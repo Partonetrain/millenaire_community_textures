@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "millenaire:block/mct_green_tiles_top",
-    "side": "millenaire:block/mct_green_tiles_side"
-  }
-}

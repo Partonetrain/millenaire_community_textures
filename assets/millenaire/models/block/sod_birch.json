@@ -1,0 +1,6 @@
+{
+	"parent": "millenaire:block/mct_sod_base",
+	"textures": {
+		"top": "minecraft:block/birch_planks"
+	}
+}
