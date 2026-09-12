@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "millenaire:block/mct_olive_tree_leaves_notint",
+    "particle": "millenaire:block/mct_olive_tree_leaves_notint"
+  }
+}

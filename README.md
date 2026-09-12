@@ -6,8 +6,10 @@ Files inside this texture pack prefixed with `mct_` are *not* overrides (ie, the
 | Items/Blocks | Author | Complete? | Notes |
 | -------- | ------- | ------- |  ------- |
 | Deniers | dimas008793 | Yes |   |
-| Maize, Olives, Olive Oil, Pistachios | dimas008793 | Yes |   |
+| Maize, Olives, Olive Oil, Pistachios, Wolf Meat, Wines | dimas008793 | Yes |   |
 | Cider Tree Leaves textures/blockstates  | Obsidianpick999 | Yes | Some leaves have randomized textures at [age=1] |
+| Pistachio+Olive Tree Leaves textures/blockstates  | Sushimus + Partonetrain | Yes | Some leaves have randomized textures at [age=1] |
+| Saplings  | Partonetrain | Yes |  |
 | Cotton, Turmeric crop block textures  | shwartz99 | Yes | Millenaire only uses different textures for stage 0-6 and stage 7, these have a unique texture for each. The provided textures were tweaked slightly. |
 | Rice Crop Block textures  | malcolmriley | Yes | From https://github.com/malcolmriley/unused-textures ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)). Paddy part uses vanilla mud texture, model by me (Partonetrain) |
 | Grape, Rice, Cotton item textures | malcolmriley | Yes | From https://github.com/malcolmriley/unused-textures ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)). |
@@ -17,6 +19,7 @@ Files inside this texture pack prefixed with `mct_` are *not* overrides (ie, the
 | Banners | Partonetrain | Yes | Fixed some stray black pixels. Lots of banners still have black pixels but those seem intentional? |
 | Japanese/Red/Green/Gray Tiles (Textures Only) | Partonetrain | Yes | The textures and model from Millenaire are very oddly structured, I'm not really sure what to do with them. MCT just changes them all to be 16x. |
 | Mayan Statue, Indian Statue, Byzantine Icons (item form) | Sushimus | Yes | From https://www.curseforge.com/minecraft/texture-packs/vanillaire (MIT) |
+| Summoning and Negation wands | Sushimus | Yes | From https://www.curseforge.com/minecraft/texture-packs/vanillaire (MIT) |
 | Cider Apple, Yogurt, Wah, Curries, Stews, Ayran, Pide, Rasgulla, Souvlaki | Sushimus | Yes | From https://www.curseforge.com/minecraft/texture-packs/vanillaire (MIT) |
 | Paint Buckets | Sushimus | Yes | From https://www.curseforge.com/minecraft/texture-packs/vanillaire (MIT) |
 | Ulu | Sushimus | Yes | From https://www.curseforge.com/minecraft/texture-packs/vanillaire (MIT) |

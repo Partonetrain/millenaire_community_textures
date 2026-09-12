@@ -1,0 +1,23 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "millenaire:block/mct_olive_tree_leaves_base" }
+    },
+    {
+      "when": { "age": "1" },
+      "apply": [
+        { "model": "millenaire:block/mct_olive_tree_leaves_blossom_full", "weight": 1 },
+        { "model": "millenaire:block/mct_olive_tree_leaves_blossom_partial_a", "weight": 3 },
+        { "model": "millenaire:block/mct_olive_tree_leaves_blossom_partial_b", "weight": 3 }
+      ]
+    },
+    {
+      "when": { "age": "2" },
+      "apply": { "model": "millenaire:block/olive_tree_leaves_unripe" }
+    },
+    {
+      "when": { "age": "3" },
+      "apply": { "model": "millenaire:block/olive_tree_leaves_fruit" }
+    }
+  ]
+}
